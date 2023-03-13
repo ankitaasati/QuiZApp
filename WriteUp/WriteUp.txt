@@ -1,0 +1,12 @@
+QUIZAPP contains three main modules: 
+
+Quiz, Review, and Result. 
+
+The quiz section of the online test application accepts the questions in JSON format. 
+The JSON file can be easily shared from the server in the pre-defined format. 
+The application renders the test at the client-side.
+The “Review and display result” section allows users to declare the results immediately. 
+
+Below is the Github Link for the same
+
+https://github.com/ankitaasati/QuiZApp.git
